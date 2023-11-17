@@ -1,4 +1,4 @@
-
+/* Valor de venda por tipo de produto */
 
 select 
     categoria.Categoria as 'Tipo de produto', 
