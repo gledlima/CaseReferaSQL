@@ -16,4 +16,3 @@ GROUP BY
 order BY 
     sum(fatodetalhes_dadosmodelagem.Valor) desc;
 
-/* Não consegui encontrar o valor total do frete devido a falta de uma chave estrangeira que ligasse as duas tabelas de FATO. */
