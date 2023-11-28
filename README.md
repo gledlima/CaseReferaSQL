@@ -10,3 +10,6 @@ Querys em SQL para responder as seguintes perguntas:
 ● Venda por cliente, cidade do cliente e estado;
 ● Média de produtos vendidos;
 ● Média de compras que um cliente faz.
+
+
+Eu deixei um link do Dashboard no arquivo em PDF chamado "Desafio2.txt"
