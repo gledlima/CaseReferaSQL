@@ -1,0 +1,6 @@
+Segue o link do dashboard criado no Power BI. O dash está públicado no power bi online, mas vou deixar o arquivo aqui também.
+
+https://app.powerbi.com/view?r=eyJrIjoiMDZjN2VmNzctZmQ2MC00MTNjLTk3NWUtZDIxODIwZDk3ZWQ2IiwidCI6IjEzYTgzNDg0LTVmMGMtNGQwYi1iNWY0LTYyNmM5MDY2NGJjMSJ9
+
+
+
