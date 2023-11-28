@@ -12,4 +12,4 @@ Querys em SQL para responder as seguintes perguntas:
 ● Média de compras que um cliente faz.
 
 
-Eu deixei um link do Dashboard no arquivo em PDF chamado "Desafio2.txt"
+Eu deixei um link do Dashboard no arquivo chamado "Desafio2.txt"
